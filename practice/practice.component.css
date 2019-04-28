@@ -1,0 +1,30 @@
+.col{
+    display: inline-block;
+}
+
+.main {
+    border: 1px solid #a3a3a3;
+    width: 200px;
+}
+
+.output {
+    height: 90px;
+    background-color: #f3f3f3;
+}
+
+.outputLabel{
+    float: right;
+    margin-right: 20px;
+    margin-top: 30px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.commonBtn{
+    width: 50px;
+    height: 50px;
+    background-color: #e3e3e3;
+    border: transparent;
+    font-size: 18px;
+    font-weight: bold;
+}
